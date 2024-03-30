@@ -1,0 +1,93 @@
+# Byte-compiled / optimized Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment variables file
+.env
+
+# Virtual environment
+venv/
+
+# IDE or editor specific files and directories
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Flask cache and logs
+instance/
+*.log
+
+# Database files
+*.sqlite
+*.sqlite3
+
+# Configuration files
+.config.py
+.config.pyc
+.config.pyo
+
+# Debug files
+.debug/
+.debug-*
+
+# Bytecode cache
+__pycache__/
+
+# Test cache
+.tests_cache/
+
+# Temporary files
+*.tmp
+*~
+
+# Build files
+.build/
+
+# Cache directories
+.cache/
+
+# Generated files
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.idea/
+
+# Temporary files
+*.swp
+
+# Log files
+*.log
+
+# SQLite database files
+*.sqlite
+*.sqlite3
+
+# Configuration files
+.config.py
+.config.pyc
+.config.pyo
+
+# Debug files
+.debug/
+.debug-*
+
+# Bytecode cache
+__pycache__/
+
+# Test cache
+.tests_cache/
+
+# Temporary files
+*.tmp
+*~
+
+# Build files
+.build/
+
+# Cache directories
+.cache/
